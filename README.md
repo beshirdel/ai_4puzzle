@@ -6,7 +6,7 @@
 * python lunch.py
 * press 's' to shuffle
 * press 'f':
-    * for the first time finds the best soloution
+    * for the first time finds the best solution
     * next time moves the blank tile
 
 
