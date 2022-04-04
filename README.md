@@ -1,6 +1,6 @@
 # 15-Puzzle solver with IDA* algorithm & pattern DB
 
-  ##### how to use
+# how to use
 
 * pip install -r requirements
 * python lunch.py
@@ -10,9 +10,9 @@
     * next time moves the blank tile
 
 
-##### create database
+# create database
 * python db.py
 
-##### screen shot
+# screen shot
 
 <img src="sc.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/>
